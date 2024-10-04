@@ -1,0 +1,3 @@
+D:/Cpp/Template_win32/build/CMakeFiles/main.dir
+D:/Cpp/Template_win32/build/CMakeFiles/edit_cache.dir
+D:/Cpp/Template_win32/build/CMakeFiles/rebuild_cache.dir
